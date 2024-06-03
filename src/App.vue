@@ -1,10 +1,12 @@
 <script setup>
 import LayoutHeader from '@/components/layout/Header.vue';
+import LayoutSidebar from '@/components/layout/Sidebar.vue';
 </script>
 
 <template>
   <div class="container">
     <LayoutHeader />
+    <LayoutSidebar />
     <div class="content">
       <router-view />
     </div>
