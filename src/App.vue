@@ -5,5 +5,6 @@
   <router-view />
 </template>
 
-<style scoped>
+<style lang="scss">
+@import './styles/global.scss';
 </style>
