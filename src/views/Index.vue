@@ -1,3 +1,5 @@
 <script setup></script>
 
-<template>Welcome</template>
+<template>
+  <h1 class="heading-1">Welcome to UI Kit</h1>
+</template>
