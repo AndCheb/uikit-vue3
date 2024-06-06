@@ -60,7 +60,7 @@ const links = ref([
     transition: 0.2s;
 
     &:hover {
-      border-color: var(--primary-color);
+      border-color: var(--primary);
     }
   }
 }
